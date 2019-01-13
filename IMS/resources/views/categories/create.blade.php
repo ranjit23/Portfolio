@@ -13,10 +13,10 @@
 			<div class="field">
 			<label class="label">CATEGORY NAME</label>
 			<div class="control">
-			<input class="input" type="text" placeholder="e.g Alex Smith" name="brand_name">
+			<input class="input" type="text" placeholder="e.g Alex Smith" name="category_name">
 			</div>
 			</div>			
-			<select class="form-control" name="brand_status" required="required">
+			<select class="form-control" name="category_status" required="required">
 			<option value="Active">Active</option>
 			<option value="Inactive">Inactive</option>
 			</select>
